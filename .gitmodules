@@ -1,3 +1,12 @@
 [submodule "backend/ecommerce-api"]
 	path = backend/ecommerce-api
 	url = https://github.com/guilhermeais/ecommerce-api.git
+[submodule "frontend/app-ecommerce-client"]
+	path = frontend/app-ecommerce-client
+	url = https://github.com/devguiamf/app-ecommerce-client.git
+[submodule "frontend/front-ecommerce-client"]
+	path = frontend/front-ecommerce-client
+	url = https://github.com/devguiamf/front-ecommerce-client.git
+[submodule "frontend/front_ecommerce_admin"]
+	path = frontend/front_ecommerce_admin
+	url = https://github.com/devguiamf/front_ecommerce_admin.git
